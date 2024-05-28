@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Swetha 
+- 👀 I’m interested in Cyber Security, Bug Bounty and Cloud Computing
+- 🌱 I’m currently learning Full Stack and THreat Analysis
+- 💞️ I’m looking to collaborate on Cyber Security, Bug Bounty and Cloud Computing
+- 📫 You can reach me through discord username: swetha0132
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm Otaku
