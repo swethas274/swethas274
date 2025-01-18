@@ -31,21 +31,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swethas274&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_title=true&layout=compact" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethas274&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethas274&theme=radical&hide_border=true&count_private=false&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-
----  
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=swethas274&icon=6&color=7" alt="Visit Count" />
-  </a>
-</div>
