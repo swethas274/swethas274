@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://tryhackme.com/p/swethas274">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/swethas274.png" width="700px" alt="TryHackMe Badge">
+  </a>
+</p>
+
+
 # 💫 About Me:
 👋 Hi there! I'm Swetha, an Ethical Hacker on a mission to master the art of cybersecurity.<br><br>🎓 Currently Pursuing:<br>I'm a BTech student at Vellore Institute of Technology, specializing in Electronics and Communication Engineering.<br><br>💡 What Drives Me:<br>Exploring cutting-edge cybersecurity techniques.<br>Continuously honing my skills in ethical hacking, penetration testing, and network security.<br>Building practical projects and solving real-world challenges in the field of technology.<br><br>🌟 Goals:<br>I aim to become an industry expert in cybersecurity while contributing to a safer digital world.<br><br>📚 On My Learning Radar:<br>Advanced cybersecurity tools and methodologies.<br>Red team operations.<br>Deepening my knowledge of cloud and network security.<br>Let's connect and collaborate on exciting tech journeys! 🚀<br><br>
 
