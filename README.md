@@ -1,3 +1,5 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/swethas274.png" alt="Your Image Badge" />
+
 # 💫 About Me
 
 👋 Hi, I'm **Swetha** — a curious builder passionate about creating logical, real-world solutions in **software development** and **cybersecurity**, often leveraging **AI and ML models** to solve complex problems.
