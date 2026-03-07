@@ -28,58 +28,6 @@ I focus on building **practical projects that explore system behavior, security 
 
 ---
 
-# 🧠 Learning Approach
-
-I prefer **learning by building**.
-
-Instead of only studying concepts, I try to:
-
-- build small systems
-- analyze failures
-- break things intentionally
-- understand how they can be secured
-
-Many of my repositories are **experiments, lab environments, or learning challenges** where I explore a new concept each day.
-
----
-
-# 🚀 Current Exploration Areas
-
-- Cloud & Network Security
-- Malware Research & Analysis
-- Security Automation
-- Distributed Systems Fundamentals
-- AI + Cybersecurity Integration
-
----
-
-# 📂 Projects
-
-You can explore my work here:
-
-👉 **https://github.com/yjul274**
-
-Some projects include:
-
-- security automation scripts
-- malware research labs
-- backend services
-- systems programming experiments
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/swethas274)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@swethas274)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/swethas_274)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/swethas274)
-
----
-
 # 🧰 Skills & Technologies
 
 ### 💻 Programming & Scripting
